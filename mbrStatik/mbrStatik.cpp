@@ -16,7 +16,7 @@ public:
         nama = pnama;
         setID();
     }
-};
+}; 
 
 
 
