@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{ecb29502-8b63-4620-a12f-c123afaf01d5}</ProjectGuid>
-    <RootNamespace>chainf</RootNamespace>
+    <ProjectGuid>{29cfad76-ce89-4fda-b625-478b64892db5}</ProjectGuid>
+    <RootNamespace>destruktor</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="chainf_.cpp" />
+    <ClCompile Include="destruktor.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

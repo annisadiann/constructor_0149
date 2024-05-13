@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="chainf_.cpp">
+    <ClCompile Include="destruktor.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
